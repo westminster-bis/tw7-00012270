@@ -15,7 +15,6 @@ def get_input():
                 print("Incorrect! Try again...")
 
         new_dict[new_key] = new_value
-
     return new_dict
 
 def calc_average(dictionary):
